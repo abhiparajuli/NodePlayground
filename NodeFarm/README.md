@@ -1,6 +1,6 @@
 # Node Farm
 
-This Node Farm project is a Node.js application that serves a simple website displaying product information. The project structure includes HTML templates, JSON data, and JavaScript files for server logic.
+This Node Farm project is a Node.js application that serves a simple website displaying product information. The project structure includes HTML templates, JSON data, and JavaScript files for server logic. This is a project based on Jonas Schmedman's tutorials.
 
 ## Key Components
 
